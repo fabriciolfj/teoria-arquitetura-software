@@ -14,3 +14,9 @@ Há uma relação bidirecional entre arquiteto e desenvolvedor, afim de evoluir 
 - design está relacionado a:
   - adoção de patterns para o desenvolvimento
   - uml de classes 
+
+#### Conhecimento técnico
+Para um arquiteto vale mais a amplitude de conhecimentos do que o conhecimento especializado, ou seja, vale conhecer um pouco de cada coisa do que muito uma só.
+
+#### Analisando trade-offs
+Deve-se pensar nos prós e contra, referente a solução sugerida.
