@@ -20,3 +20,9 @@ Para um arquiteto vale mais a amplitude de conhecimentos do que o conhecimento e
 
 #### Analisando trade-offs
 Deve-se pensar nos prós e contra, referente a solução sugerida.
+
+#### Entendendo sobre o negócio
+Deve-se traduzir os requisitos em características de arquitetura, como:
+ - escalabilidade
+ - desempenho
+ - disponibilidade
