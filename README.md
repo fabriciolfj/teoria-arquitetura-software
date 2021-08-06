@@ -30,7 +30,7 @@ Deve-se traduzir os requisitos em características de arquitetura, como:
 #### Equilibrando arquitetura e codificação prática
 - O arquiteto deve equilibrar codificação com arquitetura de software.
 
-#### Dicas para o arquitetura se manter bom em codificação:
+#### Dicas para o arquiteto se manter bom em codificação:
 - fazer pocs com melhor codificação possível.
 - abordar algumas históriso de dívida tecnica.
 - atuar em bugs não prioritários.
